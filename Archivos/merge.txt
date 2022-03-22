@@ -6,3 +6,5 @@ mis aspiraciones con la materia es lograr mejorar el manejo en los lenguajes de 
 =======
 como la carpeta ya tiene un elemento nos permite hacer commit de ella
 >>>>>>> 7097786b28fdc0a0f0a11ff8796bed5c8e94d3dc
+=======
+¿Por qué es importante tener cuidado con modificar dos archivos al mismo tiempo?:Por que se pueden presentar errores donde pueden existir dos documentos con el mismo nombre y diferente contenido
